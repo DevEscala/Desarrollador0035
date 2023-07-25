@@ -1,6 +1,6 @@
 #**Bienvenid@** 👋 👨‍💻 🧑‍💻 👩‍💻
 
-Es un respositorio dirijo a un enfoque cinetifico en mostrar codigos referentes a persona que estudian algun tipo de ingenieria civil, como la topografia,edificaciones,hidraulica,etc.
+Es un respositorio dirijo los topografos que estan interesados en conocer el mundo de la programación, se muestran diferentes sintaxis de codigo para mostrar ejmeplo
 ### Se muestran codigos que puedan servir de apoyo para el conocimiento y aplicacion en el mundo de la programacion.
 
 <!--
