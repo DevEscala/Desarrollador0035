@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here's a sentence with a footnote. [^1]
+[^1]: This is the footnote.
